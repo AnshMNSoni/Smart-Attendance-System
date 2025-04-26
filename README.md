@@ -35,7 +35,7 @@ Make sure to install the following libraries in Arduino IDE:
 
 📌 You can install them through Arduino Library Manager.
 
-🧩 Code Structure (Brief Overview)
+### 🧩 Code Structure (Brief Overview)
 Initialization: Setup LCD and RFID module.
 
 Loop: Continuously check for a card presence.
