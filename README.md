@@ -71,7 +71,4 @@ Display Messages: Print appropriate messages on LCD.
 - Team Members: Maitree Mistry, Jenil Savaliya and Rudra Joshi
 - Open-source community and documentation resources that made this project possible.
 
-### 📬 Contact
-For any queries, feel free to reach out!
-
-# 🚀 Keep Learning and Keep Exploring!
+### 🚀 Keep Learning and Keep Exploring!
