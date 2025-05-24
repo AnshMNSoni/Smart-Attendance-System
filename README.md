@@ -77,4 +77,4 @@ Display Messages: Print appropriate messages on LCD.
 
 ### ⭐ Don't forget to star the repo if you like it! ⭐
 
-### 🚀 Keep Learning and Keep Exploring!
+### Thank you 
